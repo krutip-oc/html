@@ -7,9 +7,9 @@
 
 function html_block_info(){
     $block = array(
-        'info' => t('HTML Module'),
-        'cache' => DRUPAL_CACHE_PER_ROLE,
-        'author' => 'George Huynh and Kruti P'
+        'info' => 'HTML Module',
+
+        'author' => 'George Huynh and Kruti P',
     );
     return $block;
 }
