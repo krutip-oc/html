@@ -19,6 +19,7 @@ function html_block_view()
 {
     $content = array("Testing html");
     return $content;
+    
 
 }
 
