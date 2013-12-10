@@ -1,24 +1,23 @@
 <?php
 /**
-* @file
-* A description of what your module does.
-*/
+ * @file
+ * A description of what your module does.
+ */
 
 
 function html_block_info(){
-    $block = array(
-        'info' => 'HTML Module',
+    $blocks['form']['info'] = t('HTML Module');
+    // Not worth caching.
+    $blocks['form']['cache'] = DRUPAL_NO_CACHE;
+    $blocks['form']['properties']['administrative'] = TRUE;
+    return $blocks;
 
-        'author' => 'George Huynh and Kruti P',
-    );
-    return $block;
+
 }
 function html_block_view()
 {
-    $content = array("Testing html");
-    return $content;
+    $block['content'] = t('Test 1 hello ');
+    return $block;
 
 
 }
-
-?>
