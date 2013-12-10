@@ -1,3 +1,7 @@
 name = Html
-description = This is the module to display HTML content to a node
+description = It display HTML Block
 core = 7.x
+
+package = "custom module"
+dependencies[] = path
+php = 5.3

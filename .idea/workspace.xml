@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca40fd42-4824-4f54-8906-ad239d98875e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html.module" afterPath="$PROJECT_DIR$/html.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html.info" afterPath="$PROJECT_DIR$/html.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="html.iws" />
@@ -29,22 +29,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="html.info" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="html.info" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html.info">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="66" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="144">
+            <state line="6" column="9" selection-start="117" selection-end="117" vertical-scroll-proportion="0.12053572" vertical-offset="0" max-vertical-offset="896">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html.module" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="html.module" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html.module">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="46" selection-start="193" selection-end="193" vertical-scroll-proportion="0.35106382" vertical-offset="0" max-vertical-offset="564">
-              <folding>
-                <element signature="e#6#62#0" expanded="true" />
-              </folding>
+            <state line="3" column="12" selection-start="0" selection-end="319" vertical-scroll-proportion="-2.0" vertical-offset="0" max-vertical-offset="540">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -52,7 +50,7 @@
       <file leaf-file-name="html.info" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../drupal/sites/all/modules/custom/html/html.info">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="144">
+            <state line="0" column="0" selection-start="0" selection-end="117" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="216">
               <folding />
             </state>
           </provider>
@@ -61,10 +59,8 @@
       <file leaf-file-name="html.module" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../drupal/sites/all/modules/custom/html/html.module">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="358" selection-end="358" vertical-scroll-proportion="-14.666667" vertical-offset="0" max-vertical-offset="504">
-              <folding>
-                <element signature="e#6#62#0" expanded="true" />
-              </folding>
+            <state line="10" column="1" selection-start="208" selection-end="208" vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="450">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -87,9 +83,11 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/html.info" />
-        <option value="$PROJECT_DIR$/../../drupal/sites/all/modules/custom/html/html.module" />
         <option value="$PROJECT_DIR$/html.module" />
+        <option value="$PROJECT_DIR$/../.idea/test.php" />
+        <option value="$PROJECT_DIR$/../../drupal/sites/all/modules/custom/html/html.module" />
+        <option value="$PROJECT_DIR$/../../drupal/sites/all/modules/custom/html/html.info" />
+        <option value="$PROJECT_DIR$/html.info" />
       </list>
     </option>
   </component>
@@ -207,14 +205,18 @@
       <created>1386638744520</created>
       <updated>1386638744520</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feedback">
+      <created>1386638902831</created>
+      <updated>1386638902831</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1599" y="27" width="1922" height="1054" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -259,9 +261,7 @@
     <entry file="file://$PROJECT_DIR$/html.module">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="0" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="522">
-          <folding>
-            <element signature="e#6#62#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -275,9 +275,7 @@
     <entry file="file://$PROJECT_DIR$/html.module">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-          <folding>
-            <element signature="e#6#62#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -286,35 +284,40 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.911215" vertical-offset="3348" max-vertical-offset="19458" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html.info">
+    <entry file="file://$PROJECT_DIR$/html.module">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="66" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="144">
+        <state line="3" column="12" selection-start="0" selection-end="319" vertical-scroll-proportion="-2.0" vertical-offset="0" max-vertical-offset="540">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.idea/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="2" selection-start="104" selection-end="104" vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="288">
+          <folding>
+            <element signature="e#6#88#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../drupal/sites/all/modules/custom/html/html.module">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="358" selection-end="358" vertical-scroll-proportion="-14.666667" vertical-offset="0" max-vertical-offset="504">
-          <folding>
-            <element signature="e#6#62#0" expanded="true" />
-          </folding>
+        <state line="10" column="1" selection-start="208" selection-end="208" vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="450">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../drupal/sites/all/modules/custom/html/html.info">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="896">
+        <state line="0" column="0" selection-start="0" selection-end="117" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="216">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html.module">
+    <entry file="file://$PROJECT_DIR$/html.info">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="46" selection-start="193" selection-end="193" vertical-scroll-proportion="0.35106382" vertical-offset="0" max-vertical-offset="564">
-          <folding>
-            <element signature="e#6#62#0" expanded="true" />
-          </folding>
+        <state line="6" column="9" selection-start="117" selection-end="117" vertical-scroll-proportion="0.12053572" vertical-offset="0" max-vertical-offset="896">
+          <folding />
         </state>
       </provider>
     </entry>
