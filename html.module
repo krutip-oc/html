@@ -14,7 +14,6 @@ function html_block_info(){
     return $block;
 }
 
-
 function html_block_view()
 {
     $content = array("Testing html");
