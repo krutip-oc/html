@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca40fd42-4824-4f54-8906-ad239d98875e" name="Default" comment="Changes to .info file">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html.module" afterPath="$PROJECT_DIR$/html.module" />
+    <list default="true" id="ca40fd42-4824-4f54-8906-ad239d98875e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="html.iws" />
@@ -215,7 +214,11 @@
       <created>1386640793370</created>
       <updated>1386640793370</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Changes to .module file">
+      <created>1386644267006</created>
+      <updated>1386644267006</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -252,7 +255,8 @@
     </option>
     <MESSAGE value="feedback" />
     <MESSAGE value="Changes to .info file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes to .info file" />
+    <MESSAGE value="Changes to .module file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes to .module file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
